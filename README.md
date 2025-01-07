@@ -12,7 +12,7 @@ Using Power BI to visualize dashboards about the business's production efficienc
 
 ### **2. Business Questions**
 
-- Create an Operation Dashboard for managers that displays production Yield, Scrapped Ratio, on time rate, Average Units Produced, Good Units Produced, Throughput, Cycle Time (hours), Takt time, and BOM.
+- Create an Operation Dashboard for managers that displays production yield, scrapped ratio, on time rate, average units produced, good units produced, throughput, cycle time (hours), takt time (hours), and BOM.
 
 ### **3. Data Model**
 
