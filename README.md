@@ -18,7 +18,7 @@ Using Power BI to visualize dashboards about the business's production efficienc
 
 From the company's data dictionary I did data modeling.
 
-
+![Data Modeling](https://github.com/user-attachments/assets/a9861a44-640a-4ac6-b192-960ced3f8fca)
 
 ## **II. Design Thinking Method**
 
