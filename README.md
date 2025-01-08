@@ -26,7 +26,7 @@ From the company's data dictionary I did data modeling.
 
 ### **Step 1 - Empathize**
 
-![Stage 1](https://github.com/user-attachments/assets/2f444ce7-7165-41ee-be5e-e0ad7501d264)
+![Stage 1](https://github.com/user-attachments/assets/b433e242-96f5-4c02-bd8e-7d22e376e08d)
 
 ### **Step 2 - Define**
 
@@ -67,7 +67,7 @@ From the company's data dictionary I did data modeling.
 
 ### **2. Information Per Product**
 
-![Information Per Product](https://github.com/user-attachments/assets/13e6ca7f-a80c-41db-a200-7c51aab10169)
+![Information Per Product](https://github.com/user-attachments/assets/f3de3fc8-fc13-4218-9863-6e3453864670)
 
 - **Cycle Time**: The total time taken to produce a unit from start to finish, including processing, waiting, and transport times. Monitoring cycle time helps in identifying bottlenecks and streamlining the process. 
 
