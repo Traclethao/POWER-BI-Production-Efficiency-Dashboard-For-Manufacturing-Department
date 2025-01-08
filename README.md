@@ -47,8 +47,8 @@ From the company's data dictionary I did data modeling.
 ## **III. Visualization & Insights**
 ### **1. Production Efficiency**
 
-![Production Efficiency](https://github.com/user-attachments/assets/3a79bf10-d90d-4907-9f08-4a4b19b343aa)
+![Production Efficiency](https://github.com/user-attachments/assets/a2aadc69-1ab2-4b8b-b5ac-a88be139b892)
 
 ### **2. Information Per Product**
 
-![Information Per Product](https://github.com/user-attachments/assets/96ff6720-0c37-4802-93c3-c366f7964990)
+![Information Per Product](https://github.com/user-attachments/assets/d7821f97-45eb-44d3-b4b0-1b817a757bf8)
