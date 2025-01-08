@@ -47,7 +47,7 @@ From the company's data dictionary I did data modeling.
 ## **III. Visualization & Insights**
 ### **1. Production Efficiency**
 
-![Production Efficiency](https://github.com/user-attachments/assets/cad1b7bc-d564-482e-b8c0-d4541c3208f0)
+![Production Efficiency](https://github.com/user-attachments/assets/e2a88a04-4087-453b-a311-8ea0e70e4c00)
 
 - **Production Yield**: This is the percentage of products that are produced without defects in relation to the total number of products manufactured. High yield indicates an efficient production process.
 
