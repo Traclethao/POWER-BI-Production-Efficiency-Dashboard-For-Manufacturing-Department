@@ -12,7 +12,7 @@ Using Power BI to visualize dashboards about the business's production efficienc
 
 ### **2. Business Questions**
 
-- Create an Operation Dashboard for managers that displays production yield, scrapped ratio, on time rate, average units produced, good units produced, throughput, cycle time (hours), takt time (hours), and BOM.
+- Create an Operation Dashboard for managers that displays production yield, scrapped ratio, on time rate, average units produced, good units produced, throughput, cycle time (hours), and BOM.
 
 ### **3. Data Model**
 
@@ -70,8 +70,6 @@ From the company's data dictionary I did data modeling.
 ![Information Per Product](https://github.com/user-attachments/assets/13e6ca7f-a80c-41db-a200-7c51aab10169)
 
 - **Cycle Time**: The total time taken to produce a unit from start to finish, including processing, waiting, and transport times. Monitoring cycle time helps in identifying bottlenecks and streamlining the process. 
-
-- **Takt Time**: The maximum allowable time to produce a product in order to meet customer demand. It’s calculated as the total available production time divided by customer demand.
 
 - **BOM (Bill of Materials)**: A comprehensive list of materials, components, and instructions required to construct, manufacture, or repair a product. It includes quantities, prices, and detailed information about each part.
 
