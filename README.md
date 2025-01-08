@@ -49,6 +49,34 @@ From the company's data dictionary I did data modeling.
 
 ![Production Efficiency](https://github.com/user-attachments/assets/a2aadc69-1ab2-4b8b-b5ac-a88be139b892)
 
+- **Production Yield**: This is the percentage of products that are produced without defects in relation to the total number of products manufactured. High yield indicates an efficient production process.
+
+- **Scrapped Ratio**: This is the proportion of products that are discarded due to defects or failures. Lower scrapped ratios are preferred as they indicate less waste and higher efficiency.
+
+- **On-Time Rate**: The percentage of orders completed and delivered on time, relative to the total orders. This reflects the reliability and punctuality of the manufacturing process.
+
+- **Average Units Produced**: This is the average number of units produced over a specific period, which helps in measuring the consistency and scale of production.
+
+- **Good Units Produced**: The total number of units that meet quality standards without requiring rework or being scrapped.
+
+- **Throughput**: This is the rate at which products are produced and completed within a given period, reflecting the efficiency of the production process. Tracking throughput to understand production capacity and planning for scale. 
+
+**=> Insight:**
+    - Production Yield and Scrapped Ratio are good.
+    - **On Time Rate** of 42% in 2013 is low => the company needs to improve this ratio by reviewing the production time planning accordingly. **Switch to information per product dashboard to see the specific production time of each product to plan production.**
+
 ### **2. Information Per Product**
 
 ![Information Per Product](https://github.com/user-attachments/assets/d7821f97-45eb-44d3-b4b0-1b817a757bf8)
+
+- **Cycle Time**: The total time taken to produce a unit from start to finish, including processing, waiting, and transport times. Monitoring cycle time helps in identifying bottlenecks and streamlining the process. 
+
+- **Takt Time**: The maximum allowable time to produce a product in order to meet customer demand. It’s calculated as the total available production time divided by customer demand.
+
+- **BOM (Bill of Materials)**: A comprehensive list of materials, components, and instructions required to construct, manufacture, or repair a product. It includes quantities, prices, and detailed information about each part.
+
+**=> Insight:**
+   - The company is calculating the **planned production time for the entire order to be 11 days**, **but** each order has a different quantity and the **average actual production time is 12 days**.
+   - Looking at the ActualProductionTime VS PlannedProductionTime by WorkOrderID chart, it can be seen that **each order with a different quantity will have a different actual production time**.
+**=> Recommend that the company calculate the planned production time based on the quantity of products per order.**
+
