@@ -47,7 +47,7 @@ From the company's data dictionary I did data modeling.
 ## **III. Visualization & Insights**
 ### **1. Production Efficiency**
 
-![Production Efficiency](https://github.com/user-attachments/assets/a2aadc69-1ab2-4b8b-b5ac-a88be139b892)
+![Production Efficiency](https://github.com/user-attachments/assets/cad1b7bc-d564-482e-b8c0-d4541c3208f0)
 
 - **Production Yield**: This is the percentage of products that are produced without defects in relation to the total number of products manufactured. High yield indicates an efficient production process.
 
@@ -67,7 +67,7 @@ From the company's data dictionary I did data modeling.
 
 ### **2. Information Per Product**
 
-![Information Per Product](https://github.com/user-attachments/assets/d7821f97-45eb-44d3-b4b0-1b817a757bf8)
+![Information Per Product](https://github.com/user-attachments/assets/13e6ca7f-a80c-41db-a200-7c51aab10169)
 
 - **Cycle Time**: The total time taken to produce a unit from start to finish, including processing, waiting, and transport times. Monitoring cycle time helps in identifying bottlenecks and streamlining the process. 
 
