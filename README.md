@@ -26,23 +26,23 @@ From the company's data dictionary I did data modeling.
 
 ### **Step 1 - Empathize**
 
-
+![Stage 1](https://github.com/user-attachments/assets/2f444ce7-7165-41ee-be5e-e0ad7501d264)
 
 ### **Step 2 - Define**
 
-
+![Stage 2](https://github.com/user-attachments/assets/21686fd1-846b-4d71-9482-782f304f3f6c)
 
 ### **Step 3 - Ideate**
 
-
+![Stage 3](https://github.com/user-attachments/assets/4512c32a-f9a3-4501-8511-4f100f9319df)
 
 ### **Step 4 - Prototype**
 
-
+![Stage 4](https://github.com/user-attachments/assets/5086b3bd-606f-4d4f-b37c-aee7acc7493d)
 
 ### **Step 5 - Review**
 
-
+![Stage 5](https://github.com/user-attachments/assets/1073f2d1-a8fd-4537-a8c8-d9282d639796)
 
 ## **III. Visualization & Insights**
 ### **1. Production Efficiency**
