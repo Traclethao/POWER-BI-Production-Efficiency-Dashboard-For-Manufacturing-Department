@@ -8,7 +8,7 @@ Using Power BI to visualize dashboards about the business's production efficienc
 - **AdventureWorks database** of a fictitious bicycle manufacturer - Adventure Works Cycles contains **Manufacturing**.
 - The Production Department is responsible for receiving production requests from the Company's planning department. After the Purchasing Department places orders and imports raw materials to the warehouse, production begins.
 - According to the plan, when production is completed, the products will be stored in many different locations for convenient storage and distribution to customers. The production completion time may not completely match the plan. During the warehouse inspection process, there is a possibility that the goods will be damaged, and will be eliminated to ensure that only quality products are stored for sale.
-- The dataset includes a **dim table** containing information about product and warehouse location, including fields of **product** information (ID, name, category, and subcategory, BOM, takt time) and information related to the **warehouse location** (LocationID, name, CostRate, availability).
+- The dataset includes a **dim table** containing information about product and warehouse location, including fields of **product** information (ID, name, category, and subcategory, BOM, cycle time) and information related to the **warehouse location** (LocationID, name, CostRate, availability).
 
 ### **2. Business Questions**
 
