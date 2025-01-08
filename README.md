@@ -34,7 +34,7 @@ From the company's data dictionary I did data modeling.
 
 ### **Step 3 - Ideate**
 
-![Stage 3](https://github.com/user-attachments/assets/3c330a87-3b64-4aae-870d-eba00034f760)
+![Stage 3](https://github.com/user-attachments/assets/c5f29d25-9582-4c55-9570-04632671f6e3)
 
 ### **Step 4 - Prototype**
 
