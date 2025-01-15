@@ -18,7 +18,7 @@ Using Power BI to visualize dashboards about the business's production efficienc
 
 From the company's data dictionary I did data modeling.
 
-![Data Modeling](https://github.com/user-attachments/assets/a9861a44-640a-4ac6-b192-960ced3f8fca)
+![Data Modeling](https://github.com/user-attachments/assets/904b6a9e-2e02-40f5-833e-a4441775bb95)
 
 ## **II. Design Thinking Method**
 
@@ -26,28 +26,28 @@ From the company's data dictionary I did data modeling.
 
 ### **Step 1 - Empathize**
 
-![Stage 1](https://github.com/user-attachments/assets/b433e242-96f5-4c02-bd8e-7d22e376e08d)
+![Stage 1](https://github.com/user-attachments/assets/d3dc6834-1622-470b-9563-bbc99ea417f3)
 
 ### **Step 2 - Define**
 
-![Stage 2](https://github.com/user-attachments/assets/21686fd1-846b-4d71-9482-782f304f3f6c)
+![Stage 2](https://github.com/user-attachments/assets/1789f334-57c7-4977-8f3c-9a978672527b)
 
 ### **Step 3 - Ideate**
 
-![Stage 3](https://github.com/user-attachments/assets/8286ddf7-5a3f-499d-a023-92b62cfd0274)
+![Stage 3](https://github.com/user-attachments/assets/f6532036-b16e-4419-bc47-eabd08e50d0a)
 
 ### **Step 4 - Prototype**
 
-![Stage 4](https://github.com/user-attachments/assets/2a5b3453-1d2e-425a-9aa4-256b1a1caf00)
+![Stage 4](https://github.com/user-attachments/assets/50d50b84-eea7-4ef2-8a1c-e6ced6b24720)
 
 ### **Step 5 - Review**
 
-![Stage 5](https://github.com/user-attachments/assets/1073f2d1-a8fd-4537-a8c8-d9282d639796)
+![Stage 5](https://github.com/user-attachments/assets/9413693a-0e79-409c-bd57-f023ce0b3899)
 
 ## **III. Visualization & Insights**
 ### **1. Production Efficiency**
 
-![Production Efficiency](https://github.com/user-attachments/assets/e2a88a04-4087-453b-a311-8ea0e70e4c00)
+![Production Efficiency](https://github.com/user-attachments/assets/3b176c40-8be8-4b90-a5c4-87a002ab4122)
 
 - **Production Yield**: This is the percentage of products that are produced without defects in relation to the total number of products manufactured. High yield indicates an efficient production process.
 
@@ -64,10 +64,11 @@ From the company's data dictionary I did data modeling.
 **=> Insight:**
     - Production Yield and Scrapped Ratio are good.
     - **On Time Rate** of 42% in 2013 is low => the company needs to improve this ratio by reviewing the production time planning accordingly. **Switch to information per product dashboard to see the specific production time of each product to plan production.**
+    - Cycle Time and Takt Time by Location (hours) chart shows Frame Forming, Frame Welding, Subassembly, Final Assembly unable to produce enough products to meet customer orders, causing delays in delivery. ()
 
 ### **2. Information Per Product**
 
-![Information Per Product](https://github.com/user-attachments/assets/f3de3fc8-fc13-4218-9863-6e3453864670)
+![Information per Product](https://github.com/user-attachments/assets/52fef534-70f9-42c6-9add-cf8210dd8a66)
 
 - **Cycle Time**: The total time taken to produce a unit from start to finish, including processing, waiting, and transport times. Monitoring cycle time helps in identifying bottlenecks and streamlining the process. 
 
@@ -78,3 +79,6 @@ From the company's data dictionary I did data modeling.
    - Looking at the ActualProductionTime VS PlannedProductionTime by WorkOrderID chart, it can be seen that **each order with a different quantity will have a different actual production time**.
 **=> Recommend that the company calculate the planned production time based on the quantity of products per order.**
 
+### **3. Production Capacity**
+
+![Production Capacity](https://github.com/user-attachments/assets/ab5dce4a-6b14-45ab-af56-ff328759155b)
