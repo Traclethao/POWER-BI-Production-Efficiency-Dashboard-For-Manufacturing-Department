@@ -64,7 +64,7 @@ From the company's data dictionary I did data modeling.
 **=> Insight:**
     - Production Yield and Scrapped Ratio are good.
     - **On Time Rate** of 42% in 2013 is low => the company needs to improve this ratio by reviewing the production time planning accordingly. **Switch to information per product dashboard to see the specific production time of each product to plan production.**
-    - Cycle Time and Takt Time by Location (hours) chart shows Frame Forming, Frame Welding, Subassembly, Final Assembly unable to produce enough products to meet customer orders, causing delays in delivery. ()
+    - Cycle Time and Takt Time by Location (hours) chart shows Frame Forming, Frame Welding, Subassembly, Final Assembly unable to produce enough products to meet customer orders, causing delays in delivery. (Go to view 3 production capacity for details)
 
 ### **2. Information Per Product**
 
@@ -82,3 +82,11 @@ From the company's data dictionary I did data modeling.
 ### **3. Production Capacity**
 
 ![Production Capacity](https://github.com/user-attachments/assets/ab5dce4a-6b14-45ab-af56-ff328759155b)
+
+**=> Insight:**
+   - Every month, the three locations Frame Forming, Subassembly, and Final Assembly cannot meet customer needs in time. 
+**=> Recommend:** To reduce cycle time to match takt time, ensure the production system operates effectively and meets customer needs in the best way, we can take the following measures:
+   - **Optimize the production process**: Eliminate unnecessary steps and improve the remaining steps to work more efficiently.
+   - **Invest in new technology**: Use modern equipment and technology to reduce production time.
+   - **Train and develop employees**: Improve employees' skills and work efficiency.
+   - **Apply Lean and Six Sigma methods**: Reduce waste and improve the quality of the production process.
