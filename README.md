@@ -80,6 +80,7 @@ From the company's data dictionary I did data modeling.
 **=> Insight:**
    - The company is calculating the **planned production time for the entire order to be 11 days**, **but** each order has a different quantity and the **average actual production time is 12 days**.
    - Looking at the ActualProductionTime VS PlannedProductionTime by WorkOrderID chart, it can be seen that **each order with a different quantity will have a different actual production time**.
+     
 **=> Recommend that the company calculate the planned production time based on the quantity of products per order.**
 
 ### **3. Production Capacity**
@@ -94,3 +95,5 @@ From the company's data dictionary I did data modeling.
    - **Invest in new technology**: Use modern equipment and technology to reduce production time.
    - **Train and develop employees**: Improve employees' skills and work efficiency.
    - **Apply Lean and Six Sigma methods**: Reduce waste and improve the quality of the production process.
+
+
