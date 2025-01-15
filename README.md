@@ -89,11 +89,15 @@ From the company's data dictionary I did data modeling.
 
 **=> Insight:**
    - Every month, the three locations Frame Forming, Subassembly, and Final Assembly cannot meet customer needs in time.
-     
-**=> Recommend:** To reduce cycle time to match takt time, ensure the production system operates effectively and meets customer needs in the best way, we can take the following measures:
-   - **Optimize the production process**: Eliminate unnecessary steps and improve the remaining steps to work more efficiently.
-   - **Invest in new technology**: Use modern equipment and technology to reduce production time.
-   - **Train and develop employees**: Improve employees' skills and work efficiency.
-   - **Apply Lean and Six Sigma methods**: Reduce waste and improve the quality of the production process.
 
+## **IV. Recommendations**
+
+**Improvement on time rate by:**
+- Reviewing the production time planning accordingly. The company is calculating the planned production time for the entire order to be 11 days, but each order has a different quantity and the average actual production time is 12 days. Each order with a different quantity will have a different actual production time. **=> calculating the planned production time based on the quantity of products per order.**
+
+- Reduce cycle time to match takt time by the following measures:
+   + **Optimize the production process**: Eliminate unnecessary steps and improve the remaining steps to work more efficiently.
+   + **Invest in new technology**: Use modern equipment and technology to reduce production time.
+   + **Train and develop employees**: Improve employees' skills and work efficiency.
+   + **Apply Lean and Six Sigma methods**: Reduce waste and improve the quality of the production process.
 
