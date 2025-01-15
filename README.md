@@ -62,8 +62,11 @@ From the company's data dictionary I did data modeling.
 - **Throughput**: This is the rate at which products are produced and completed within a given period, reflecting the efficiency of the production process. Tracking throughput to understand production capacity and planning for scale. 
 
 **=> Insight:**
+    
     - Production Yield and Scrapped Ratio are good.
+    
     - **On Time Rate** of 42% in 2013 is low => the company needs to improve this ratio by reviewing the production time planning accordingly. **Switch to information per product dashboard to see the specific production time of each product to plan production.**
+    
     - Cycle Time and Takt Time by Location (hours) chart shows Frame Forming, Frame Welding, Subassembly, Final Assembly unable to produce enough products to meet customer orders, causing delays in delivery. (Go to view 3 production capacity for details)
 
 ### **2. Information Per Product**
