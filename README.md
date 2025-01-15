@@ -84,7 +84,8 @@ From the company's data dictionary I did data modeling.
 ![Production Capacity](https://github.com/user-attachments/assets/ab5dce4a-6b14-45ab-af56-ff328759155b)
 
 **=> Insight:**
-   - Every month, the three locations Frame Forming, Subassembly, and Final Assembly cannot meet customer needs in time. 
+   - Every month, the three locations Frame Forming, Subassembly, and Final Assembly cannot meet customer needs in time.
+     
 **=> Recommend:** To reduce cycle time to match takt time, ensure the production system operates effectively and meets customer needs in the best way, we can take the following measures:
    - **Optimize the production process**: Eliminate unnecessary steps and improve the remaining steps to work more efficiently.
    - **Invest in new technology**: Use modern equipment and technology to reduce production time.
